@@ -1,0 +1,35 @@
+Changelog Modelio 3.7.1
+
+Released on March the 8th 2018
+
+Fixes / Improvements:
+
+    New ‘Show numbers’ graphic option for Sequence Messages.
+    It is now possible to delete elements from the semantic model explorer.
+    Fixed issues with Sequence diagrams.
+    Fixed issues in BPMN Diagrams.
+    Fixed issues with BPMN migration.
+    Fixed issues with BPMN Import/Export.
+    Fixed issues with Provided/Required Interfaces.
+    Fixed issues with Audit preferences.
+    Fixed issue with orthogonal links drawing.
+    Fixed issue with state transitions labels in model explorer.
+    Fixed issue with associations multiplicity display in diagrams.
+    Fixed issues with the XMI import/export.
+
+Notes:
+
+The Rich Note feature has been validated under the following platforms:
+
+    Windows 8.1 and Windows 10 using the following ‘offices’:
+        MS Office 2010
+        MS Office 2013
+        MS Office 2016
+        LibreOffice 5.3.6
+        LibreOffice 5.4.2
+
+    Ubuntu 14.04 & 16.04 and CentOS 6 & 7 using the following ‘offices’:
+        LibreOffice 4.2.8
+        LibreOffice 5.1.2
+        LibreOffice 5.3.6
+        LibreOffice 5.4.2
