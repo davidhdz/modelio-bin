@@ -1,9 +1,7 @@
-# Maintainer: rafaelsoaresbr <rafaelsoaresbr@gmail.com>
-# Maintainer: llde 
-# modelio-bin
-# Contributing: https://github.com/rafaelsoaresbr/pkgbuild
-# Builds: https://gitlab.com/rafaelsoaresbr/pkgbuild/builds
-#pkgbase=
+# Maintainer: davidhdz <david dot vzla at gmail dot com>
+# Contributor: llde 
+# Contributor: rafaelsoaresbr <rafaelsoaresbr@gmail.com>
+# git: https://github.com/davidhdz/modelio-bin
 pkgname=modelio-bin
 
 # Version
