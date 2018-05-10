@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=Modelio
-Version=3.7.1
-Comment=The opensource modeling environment
+GenericName=Modelio Open Source 3.7
+Version=1.0
+Comment=An Integrated Model-Driven Development Environment (MDA)
 Exec=/opt/modelio/modelio %u
 Icon=/opt/modelio/icon.xpm
+StartupNotify=true
+Terminal=false
 Type=Application
-Categories=Development;UML;
+Categories=Development;
